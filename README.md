@@ -1,4 +1,4 @@
 # SAM3_MLX
 
 
-python3 ./scripts/stt_from_mic_mlx.py
+python ../sam_3.py --camera 0 --prompt "Things to segment"
